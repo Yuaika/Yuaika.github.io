@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:     Object Detection
-subtitle:   3 papers about Context Interactive
+title:     目标检测文献阅读
+subtitle:   4 papers about Context Interactive
 date:       2021-05-07
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
 ---
 1.Spatial Memory for Context Reasoning in Object Detection
 

@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:     DL
-subtitle:   人体姿态估计
+title:     人体姿态估计
+subtitle:   
 date:       2021-09-18
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Pose Estimation
 ---
 ## Top-down
 

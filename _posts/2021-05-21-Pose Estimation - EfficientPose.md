@@ -1,15 +1,13 @@
 ---
 layout:     post
-title:    Pose Estimation
-subtitle:   EfficientPose论文阅读
+title:    位姿估计：EfficientPose论文阅读
+subtitle:   
 date:       2021-05-18
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
-    - Pose Estimation
 ---
 > EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach
 

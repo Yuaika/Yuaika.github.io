@@ -1,15 +1,13 @@
 ---
 layout:     post
-title:    Pose Estimation
-subtitle:   PVNet论文阅读
+title:    位姿估计：PVNet论文阅读
+subtitle:   
 date:       2021-05-13
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
-    - Pose Estimation
 ---
 > PVNet: Pixel-wise Voting Network for 6DoF Object Pose Estimation
 

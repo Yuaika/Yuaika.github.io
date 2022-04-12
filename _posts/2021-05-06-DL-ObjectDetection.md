@@ -8,7 +8,6 @@ header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
 ---
 > Object Detection in 20 Years: A Survey
 >

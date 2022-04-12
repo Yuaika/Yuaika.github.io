@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:     Object Detection
-subtitle:   CV中的特征融合
+title:     计算机视觉中的特征融合
+subtitle:   
 date:       2021-05-07
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
 ---
 1.Feature Pyramid Networks for Object Detection
 

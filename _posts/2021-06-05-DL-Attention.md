@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:     Object Detection
-subtitle:   CV注意力机制
+title:     计算机视觉中的注意力机制
+subtitle:   
 date:       2021-06-05
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Deep Learning
-    - Object Detection
 ---
 # 一.通道注意力与空间注意力
 
