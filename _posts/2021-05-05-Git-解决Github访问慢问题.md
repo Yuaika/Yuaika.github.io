@@ -10,7 +10,7 @@ tags:
     - Markdown
     - Git
 ---
-# **解决Github访问慢的问题**
+### **解决Github访问慢的问题**
 
 1.初始情况
 
@@ -61,6 +61,12 @@ DNS查询网站：http://tool.chinaz.com/dns/?type=1&host=github.com&ip=
     来自 52.74.223.119 的回复: 字节=32 时间=96ms TTL=39
     来自 52.74.223.119 的回复: 字节=32 时间=96ms TTL=39
     来自 52.74.223.119 的回复: 字节=32 时间=97ms TTL=39
+
+
+
+> 2022-04-15更新
+
+### [解决Github无法显示图片以及README无法显示图片](https://blog.csdn.net/qq_41709370/article/details/106282229)
 
 
 
