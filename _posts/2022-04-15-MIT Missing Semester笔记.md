@@ -2,7 +2,7 @@
 layout:     post
 title:     MIT Missing Semester 笔记
 subtitle:   
-date:       2021-04-15
+date:       2022-04-15
 author:     BY Yuaika
 header-img: img/post-bg-debug.png
 catalog: true
